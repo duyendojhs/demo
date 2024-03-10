@@ -1,0 +1,194 @@
+.fullLoading__loadingContainer__sy4Rg {
+    display: block;
+    height: 100%;
+    max-width: 100%;
+    min-height: 100vh;
+    opacity: 1;
+    position: fixed;
+    top: 0;
+    visibility: visible;
+    width: 100vw;
+    z-index: 1002
+}
+
+[dir] .fullLoading__loadingContainer__sy4Rg {
+    background-color: #202020
+}
+
+[dir=ltr] .fullLoading__loadingContainer__sy4Rg {
+    left: 0
+}
+
+[dir=rtl] .fullLoading__loadingContainer__sy4Rg {
+    right: 0
+}
+
+.fullLoading__loadingContainer__sy4Rg.fullLoading__isFullContentLoading__1LWxP {
+    position: absolute
+}
+
+.fullLoading__loadingContainer__sy4Rg .fullLoading__loadingIcon__g1tiM {
+    display: inline-block;
+    height: 30px;
+    position: absolute;
+    top: 50vh;
+    width: 30px
+}
+
+[dir] .fullLoading__loadingContainer__sy4Rg .fullLoading__loadingIcon__g1tiM {
+    border: 2px solid;
+    border-color: #fff #fff rgba(0,0,0,0);
+    border-radius: 100%;
+    margin: 2px
+}
+
+[dir=ltr] .fullLoading__loadingContainer__sy4Rg .fullLoading__loadingIcon__g1tiM {
+    -webkit-animation: fullLoading__rotate-ltr__8qKue .75s linear 0s infinite;
+    animation: fullLoading__rotate-ltr__8qKue .75s linear 0s infinite;
+    background: 0 0!important;
+    border-left-color: rgba(0,0,0,0);
+    border-right-color: rgba(0,0,0,0);
+    left: calc(50% - 18px);
+    -webkit-transform: translateY(-50%) translateX(-50%);
+    -ms-transform: translateY(-50%) translateX(-50%);
+    transform: translateY(-50%) translateX(-50%)
+}
+
+[dir=rtl] .fullLoading__loadingContainer__sy4Rg .fullLoading__loadingIcon__g1tiM {
+    -webkit-animation: fullLoading__rotate-rtl__by1XC .75s linear 0s infinite;
+    animation: fullLoading__rotate-rtl__by1XC .75s linear 0s infinite;
+    background: 100% 0!important;
+    border-left-color: rgba(0,0,0,0);
+    border-right-color: rgba(0,0,0,0);
+    right: calc(50% - 18px);
+    -webkit-transform: translateY(-50%) translateX(50%);
+    -ms-transform: translateY(-50%) translateX(50%);
+    transform: translateY(-50%) translateX(50%)
+}
+
+[dir=ltr] .fullLoading__loadingContainer__sy4Rg.fullLoading__isLeave__ZVDz5,[dir=rtl] .fullLoading__loadingContainer__sy4Rg.fullLoading__isLeave__ZVDz5 {
+    -webkit-animation: fullLoading__fadeinout__Tmef9 1s linear forwards;
+    animation: fullLoading__fadeinout__Tmef9 1s linear forwards
+}
+
+@-webkit-keyframes fullLoading__rotate-ltr__8qKue {
+    0% {
+        -webkit-transform: rotate(0);
+        transform: rotate(0)
+    }
+
+    50% {
+        -webkit-transform: rotate(180deg);
+        transform: rotate(180deg)
+    }
+
+    to {
+        -webkit-transform: rotate(1turn);
+        transform: rotate(1turn)
+    }
+}
+
+@-webkit-keyframes fullLoading__rotate-rtl__by1XC {
+    0% {
+        -webkit-transform: rotate(0);
+        transform: rotate(0)
+    }
+
+    50% {
+        -webkit-transform: rotate(-180deg);
+        transform: rotate(-180deg)
+    }
+
+    to {
+        -webkit-transform: rotate(-1turn);
+        transform: rotate(-1turn)
+    }
+}
+
+@keyframes fullLoading__rotate-ltr__8qKue {
+    0% {
+        -webkit-transform: rotate(0);
+        transform: rotate(0)
+    }
+
+    50% {
+        -webkit-transform: rotate(180deg);
+        transform: rotate(180deg)
+    }
+
+    to {
+        -webkit-transform: rotate(1turn);
+        transform: rotate(1turn)
+    }
+}
+
+@keyframes fullLoading__rotate-rtl__by1XC {
+    0% {
+        -webkit-transform: rotate(0);
+        transform: rotate(0)
+    }
+
+    50% {
+        -webkit-transform: rotate(-180deg);
+        transform: rotate(-180deg)
+    }
+
+    to {
+        -webkit-transform: rotate(-1turn);
+        transform: rotate(-1turn)
+    }
+}
+
+@-webkit-keyframes fullLoading__fadeinout__Tmef9 {
+    0% {
+        opacity: 1
+    }
+
+    50% {
+        opacity: .5
+    }
+
+    to {
+        opacity: 0;
+        visibility: hidden
+    }
+}
+
+@keyframes fullLoading__fadeinout__Tmef9 {
+    0% {
+        opacity: 1
+    }
+
+    50% {
+        opacity: .5
+    }
+
+    to {
+        opacity: 0;
+        visibility: hidden
+    }
+}
+
+[dir=ltr] #module-system-container>div {
+    margin-left: 0!important
+}
+
+[dir=rtl] #module-system-container>div {
+    margin-right: 0!important
+}
+
+[dir=ltr] #module-system-container {
+    direction: ltr
+}
+
+[dir=rtl] #module-system-container {
+    direction: rtl
+}
+
+.landingPageLayout {
+    min-height: 99vh
+}
+
+[dir] .landingPageLayout {
+    background: #000
+}

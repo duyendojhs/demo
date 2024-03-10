@@ -1,0 +1,349 @@
+#rogProduct .bv-mbox .bv-mbox-close {
+    top: 25px !important;
+    right: 30px !important;
+  }
+  
+  #rogProduct .bv-mbox .bv-mbox-close:hover {
+    color: #e30017 !important;
+  }
+  
+  #rogProduct .bv-mbox .bv-mbox-close:focus {
+    outline-width: 0 !important;
+    outline-color: transparent !important;
+    outline-style: dotted !important;
+  }
+  
+  #rogProduct #bv-mboxzone-lightbox p {
+    color: #ffffff !important;
+  }
+  
+  #rogProduct #bv-mboxzone-lightbox h3 {
+    color: #ffffff !important;
+  }
+  
+  #rogProduct #bv-mboxzone-lightbox h2 {
+    color: #ffffff !important;
+  }
+  
+  #rogProduct #bv-mboxzone-lightbox span {
+    color: #e30017 !important;
+  }
+  
+  #rogProduct #bv-mboxzone-lightbox .bv-content-header-meta {
+    display: flex !important;
+    align-items: center !important;
+    flex-wrap: wrap !important;
+    width: 100%;
+  }
+  
+  #rogProduct #bv-mboxzone-lightbox .bv-content-header-meta .bv-content-rating {
+    display: flex !important;
+  }
+  
+  #rogProduct #bv-mboxzone-lightbox .bv-rating-stars-container .bv-rating-stars {
+    letter-spacing: 5px !important;
+  }
+  
+  #rogProduct #bv-mboxzone-lightbox .bv-mbox-close span {
+    color: #ffffff !important;
+  }
+  
+  #rogProduct #bv-mboxzone-lightbox .bv-content-data {
+    margin-bottom: 10px !important;
+  }
+  
+  #rogProduct #bv-mboxzone-lightbox .bv-content-data-value,
+  #rogProduct #bv-mboxzone-lightbox .bv-content-datetime-stamp {
+    color: #bfbfbf !important;
+  }
+  
+  #rogProduct #bv-mboxzone-lightbox .bv-cv2-cleanslate .bv-core-container-103 .bv-media-viewer {
+    background-color: #ffffff !important;
+  }
+  
+  #rogProduct #bv-mboxzone-lightbox .bv-mbox-injection-target {
+    background-color: #222222 !important;
+    padding: 30px !important;
+    padding-top: 50px !important;
+  }
+  
+  #rogProduct #bv-mboxzone-lightbox .bv-mbox-injection-target.bv-mbox-media-box.bv-mbox-current {
+    padding-top: 65px !important;
+  }
+  
+  #rogProduct #bv-mboxzone-lightbox .bv-cv2-cleanslate .bv-dropdown ul {
+    border: 0 !important;
+    border-radius: 0 !important;
+  }
+  
+  #rogProduct #bv-mboxzone-lightbox .bv-content-search {
+    border-bottom: 0px solid #ccc!important;
+    box-shadow: 0 0 0 #fff!important;
+  }
+  
+  #rogProduct #bv-mboxzone-lightbox .bv-content-review {
+    background: #222222 !important;
+    margin-bottom: 30px !important;
+  }
+  
+  #rogProduct #bv-mboxzone-lightbox .bv-content-review:not(:last-child) {
+    border-bottom: 1px solid #343434 !important;
+  }
+  
+  #rogProduct #bv-mboxzone-lightbox .bv-cv2-cleanslate .bv-content-summary {
+    background: #ffffff !important;
+  }
+  
+  #rogProduct #bv-mboxzone-lightbox .bv-cv2-cleanslate .bv-control-bar-count {
+    line-height: 21px !important;
+    padding-left: 0 !important;
+  }
+  
+  #rogProduct #bv-mboxzone-lightbox .bv-action-bar {
+    margin: 0 !important;
+    background: #222222 !important;
+    padding: 16px 0 !important;
+  }
+  
+  #rogProduct #bv-mboxzone-lightbox .bv-content-pagination-buttons {
+    margin: 7px 9px !important;
+  }
+  
+  #rogProduct #bv-mboxzone-lightbox .bv-content-pagination-buttons .bv-content-pagination-buttons-item .bv-content-btn{
+    border: 0 !important;
+    background: transparent !important;
+    padding: 5px 15px !important;
+  }
+  
+  #rogProduct #bv-mboxzone-lightbox .bv-content-pagination-buttons .bv-content-pagination-buttons-item .bv-content-btn:focus {
+    outline: none !important;
+  }
+  
+  #rogProduct #bv-mboxzone-lightbox .bv-content-pagination-buttons .bv-content-btn-pages-inactive span {
+    color: #797979 !important;
+  }
+  
+  #rogProduct #bv-mboxzone-lightbox .bv-header .bv-control-bar {
+    margin: 0 !important;
+    background: #2c2c2c !important;
+    padding-left: 14px !important;
+    margin-bottom: 32px !important;
+    font-size: 16px !important;
+  }
+  
+  #rogProduct #bv-mboxzone-lightbox .bv-control-bar span{
+    font-size: 16px !important;
+    color: #ffffff !important;
+  }
+  
+  #rogProduct #bv-mboxzone-lightbox  .bv-content-header {
+    padding: 0 !important;
+  }
+  
+  #rogProduct #bv-mboxzone-lightbox .bv-content-details-offset-off {
+    padding: 0 !important;
+  }
+  
+  #rogProduct #bv-content-list-products-wrapper .bv-content-pagination {
+    background: #2c2c2c !important;
+    margin: 0 !important;
+    height: 44px !important;
+  }
+  
+  #rogProduct #bv-mboxzone-lightbox .bv-cv2-cleanslate .bv-content-media-container .bv-media-item .bv-media-item-border {
+    border: 0 solid rgba(0,0,0,.2)!important;
+  }
+  
+  
+  #rogProduct #bv-mboxzone-lightbox .bv-media-focus-target {
+    outline: 0 !important;
+  }
+  
+  #rogProduct #bv-mboxzone-lightbox .bv-content-media-container .bv-media-item:focus {
+    outline: 0 !important;
+  }
+  
+  #rogProduct #bv-mboxzone-lightbox .bv-media-item-border {
+    border: 0 solid rgba(0,0,0,.2)!important;
+  }
+  
+  
+  #rogProduct #bv-mboxzone-lightbox .bv-content-summary {
+    padding: 0 !important;
+    background-color: #222222 !important;
+  }
+  
+  #rogProduct #bv-mboxzone-lightbox .bv-mbox-content-container .bv-media-viewer-stack .bv-media-viewer-caption,
+  #rogProduct #bv-mboxzone-lightbox .bv-mbox-content-container .bv-media-viewer-stack .bv-media-viewer-ribbon-summary {
+    display: none !important;
+  }
+  
+  #rogProduct .bv-cv2-cleanslate .bv-media-viewer {
+    background-color: #222222 !important;
+  }
+  
+  #rogProduct .bv-media-viewer-ribbon-inner {
+    margin-top: 51px !important;
+  }
+  
+  #rogProduct .bv-media-viewer-ribbon-inner .bv-media-viewer-ribbon-item {
+    width: 30px !important;
+    height: 3px !important;
+    background-color: rgba(#ffffff, 0.3) !important;
+    transform: skewX(-40deg) !important;
+  }
+  
+  #rogProduct .bv-media-viewer-ribbon-inner .bv-media-viewer-ribbon-item.bv-media-viewer-ribbon-item-active{
+  
+    background-color: #e30017 !important;
+  }
+  
+  #rogProduct .bv-content-data-summary .bv-content-title {
+    margin: 12px 0 16px !important;
+  }
+  
+  #rogProduct .bv-content-summary-body-text p {
+    font-size: 14px !important;
+  }
+  
+  #rogProduct .bv-secondary-content-link {
+    outline: 0 !important;
+    font-size: 18px !important;
+    color: #ffffff !important;
+  }
+  
+  #rogProduct .bv-secondary-content-link:focus {
+    outline: 0 !important;
+    color: #ffffff !important;
+  }
+  
+  #rogProduct .bv-cv2-cleanslate .bv-content-media-container .bv-media-item .bv-media-item-wrapper {
+    margin-right: 14px !important;
+  }
+  
+  #bv-mboxzone-lightbox .bv-search-text {
+    background: #222222 !important;
+    color: #ffffff !important;
+    border: 1px solid #757575 !important;
+    border-radius: 0 !important;
+    box-shadow: 0 0 0 0 !important;
+    text-shadow: 0 0 #222222 !important;
+    padding-left: 40px !important;
+    height: 48px !important;
+    width: 100% !important;
+    font-size: 17px !important;
+    margin: 16px 0 !important;
+  }
+  
+  #bv-mboxzone-lightbox .bv-search-text:focus {
+    outline: none !important;
+    border-color: #e30017 !important;
+  }
+  
+  #bv-mboxzone-lightbox .bv-search-clear-icon {
+    color: #ffffff !important;
+    right: 3% !important;
+    cursor: pointer !important;
+  }
+  
+  #bv-mboxzone-lightbox .bv-search-clear-icon:focus {
+    outline: none !important;
+  }
+  
+  #bv-mboxzone-lightbox .bv-search-clear-icon span {
+    color: #ffffff !important;
+  }
+  
+  #bv-mboxzone-lightbox .bv-fieldsets {
+    padding: 0 !important;
+    position: relative !important;
+    border-bottom: 1px solid #343434 !important;
+  }
+  
+  #bv-mboxzone-lightbox .bv-fieldsets .bv-content-search-btn {
+    position: absolute !important;
+    left: 0 !important;
+    width: 40px !important;
+    height: 48px !important;
+    background: transparent !important;
+    border: 1px solid transparent !important;
+    margin: 16px 0 0 !important;
+  }
+  
+  #rogProduct #bv-mboxzone-lightbox .bv-fieldsets .bv-search-control-icon {
+    color: #ffffff !important;
+  }
+  
+  .bv-cv2-cleanslate .bv-core-container-213 .bv-dropdown-container .bv-dropdown #bv-dropdown-select-reviews-sortby {
+    border: 0 !important;
+    background: #161616 !important;
+  }
+  
+  .bv-cv2-cleanslate .bv-core-container-213 .bv-dropdown ul {
+    background: #161616 !important;
+  }
+  
+  .bv-cv2-cleanslate .bv-core-container-213 .bv-dropdown-container .bv-dropdown ul .bv-dropdown-item.bv-dropdown-item-selected  {
+    background: #161616 !important;
+    color: #606060 !important;
+  }
+  
+  .bv-cv2-cleanslate .bv-core-container-242 .bv-dropdown-container .bv-dropdown ul .bv-dropdown-item {
+    background-color: transparent !important;
+  }
+  
+  #rogProduct #bv-mboxzone-lightbox .bv-mbox .bv-media-arrow {
+    background: transparent !important;
+  }
+  
+  #rogProduct #bv-mboxzone-lightbox .bv-mbox .bv-media-arrow:focus {
+    outline: none !important;
+  }
+  
+  /* 過濾選單 */
+  #rogProduct .bv-cv2-cleanslate div .bv-dropdown ul {
+    background-color: #161616 !important;
+    border: none !important;
+    border-radius: 0 !important;
+  }
+  
+  @media (max-width: 1024px) {
+    #rogProduct #bv-mboxzone-lightbox .bv-mbox-injection-target {
+      padding-left: 30px !important;
+      padding-right: 30px !important;
+    }
+  
+    #rogProduct #bv-mboxzone-lightbox .bv-mbox-injection-target.bv-mbox-media-box.bv-mbox-current {
+      padding-top: 55px !important;
+    }
+  
+    #rogProduct #bv-mboxzone-lightbox .bv-cv2-cleanslate .bv-control-bar-count {
+      padding: 8px 10px !important;
+    }
+  
+    #rogProduct #bv-mboxzone-lightbox .bv-content-header-meta .bv-content-rating {
+      margin-bottom: 8px !important;
+    }
+  
+    #rogProduct #bv-content-list-products-wrapper .bv-content-pagination {
+      height: 40px !important;
+    }
+  
+    #rogProduct #bv-mboxzone-lightbox .bv-content-pagination-buttons {
+      margin: 5px 1px !important;
+    }
+  
+    #rogProduct .bv-media-viewer-ribbon-inner {
+      margin-top: 20px !important;
+    }
+  }
+  
+  @media (max-width: 680px) and (max-height: 812px) {
+    #rogProduct .bv-mbox-content-container .bv-mbox-injection-container {
+      height: 100vh !important;
+    }
+  
+    #rogProduct .bv-mbox-content-container .bv-mbox-injection-container .bv-mbox-injection-target {
+      height: 100% !important;
+    }
+  }

@@ -1,0 +1,60 @@
+
+@font-face {
+  font-family: "robotocondensed";
+  font-style: normal;
+  font-weight: normal;
+  font-display: block;
+  src: url("https://dlcdnrog.asus.com/rog/font/robotocondensed-regular.ttf?v=rog2024") format("truetype");
+}
+
+@font-face {
+  font-family: "roboto";
+  font-style: normal;
+  font-weight: normal;
+  font-display: block;
+  src: url("https://dlcdnrog.asus.com/rog/font/robotocondensed-regular.ttf?v=rog2024") format("truetype");
+}
+
+@font-face {
+  font-family: "condensed";
+  font-style: normal;
+  font-weight: bold;
+  font-display: block;
+  src: url("https://dlcdnrog.asus.com/rog/font/robotocondensed-regular.ttf?v=rog2024") format("truetype");
+}
+
+
+@font-face {
+  font-family: "tradegothicltpro";
+  font-style: normal;
+  font-weight: normal;
+  font-display: block;
+  src: url("https://dlcdnrog.asus.com/rog/font/tradegothicltpro-bold.ttf?v=rog2024") format("truetype");
+}
+
+
+@font-face {
+  font-family: "ROGFonts-Regular";
+  font-style: normal;
+  font-weight: normal;
+  font-display: block;
+  src: url("https://dlcdnrog.asus.com/rog/font/rogfonts-regular.otf?v=rog2024") format("opentype");
+}
+
+@font-face {
+  font-family: "segoeui";
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+  src: url("https://dlcdnrog.asus.com/rog/font/segoeui.woff?v=rog2024") format("woff");
+}
+
+@font-face {
+  font-family: "segoeui-bold";
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+  src: url("https://dlcdnrog.asus.com/rog/font/Segoe-UI-Bold.woff?v=rog2024") format("woff"),
+  url("~assets/fonts/Segoe-UI-Bold.woff") format("woff");
+}
+
