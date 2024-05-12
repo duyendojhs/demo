@@ -5,10 +5,10 @@
     font-weight: 300;
     font-display: swap;
     src: local(''),
-         url('https://dlcdnimgs.asus.com/vendor/public/fonts/roboto_condensed/roboto-condensed-v25-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-         url('https://dlcdnimgs.asus.com/vendor/public/fonts/roboto_condensed/roboto-condensed-v25-latin-300.woff') format('woff'), /* Modern Browsers */
-         url('https://dlcdnimgs.asus.com/vendor/public/fonts/roboto_condensed/roboto-condensed-v25-latin-300.ttf') format('truetype'), /* Safari, Android, iOS */
-         url('https://dlcdnimgs.asus.com/vendor/public/fonts/roboto_condensed/roboto-condensed-v25-latin-300.svg#RobotoCondensed') format('svg'); /* Legacy iOS */
+         url('/fonts/roboto_condensed/roboto-condensed-v25-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+         url('/fonts/roboto_condensed/roboto-condensed-v25-latin-300.woff') format('woff'), /* Modern Browsers */
+         url('/fonts/roboto_condensed/roboto-condensed-v25-latin-300.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('/fonts/roboto_condensed/roboto-condensed-v25-latin-300.svg') format('svg'); /* Legacy iOS */
   }
   /* roboto-condensed-300italic - latin */
   @font-face {
@@ -17,10 +17,10 @@
     font-weight: 300;
     font-display: swap;
     src: local(''),
-         url('https://dlcdnimgs.asus.com/vendor/public/fonts/roboto_condensed/roboto-condensed-v25-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
-         url('https://dlcdnimgs.asus.com/vendor/public/fonts/roboto_condensed/roboto-condensed-v25-latin-300italic.woff') format('woff'), /* Modern Browsers */
-         url('https://dlcdnimgs.asus.com/vendor/public/fonts/roboto_condensed/roboto-condensed-v25-latin-300italic.ttf') format('truetype'), /* Safari, Android, iOS */
-         url('https://dlcdnimgs.asus.com/vendor/public/fonts/roboto_condensed/roboto-condensed-v25-latin-300italic.svg#RobotoCondensed') format('svg'); /* Legacy iOS */
+         url('/fonts/roboto_condensed/roboto-condensed-v25-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+         url('/fonts/roboto_condensed/roboto-condensed-v25-latin-300italic.woff') format('woff'), /* Modern Browsers */
+         url('/fonts/roboto_condensed/roboto-condensed-v25-latin-300italic.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('/fonts/roboto_condensed/roboto-condensed-v25-latin-300italic.svg') format('svg'); /* Legacy iOS */
   }
   /* roboto-condensed-regular - latin */
   @font-face {
@@ -29,10 +29,10 @@
     font-weight: 400;
     font-display: swap;
     src: local(''),
-         url('https://dlcdnimgs.asus.com/vendor/public/fonts/roboto_condensed/roboto-condensed-v25-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
-         url('https://dlcdnimgs.asus.com/vendor/public/fonts/roboto_condensed/roboto-condensed-v25-latin-regular.woff') format('woff'), /* Modern Browsers */
-         url('https://dlcdnimgs.asus.com/vendor/public/fonts/roboto_condensed/roboto-condensed-v25-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
-         url('https://dlcdnimgs.asus.com/vendor/public/fonts/roboto_condensed/roboto-condensed-v25-latin-regular.svg#RobotoCondensed') format('svg'); /* Legacy iOS */
+         url('/fonts/roboto_condensed/roboto-condensed-v25-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('/fonts/roboto_condensed/roboto-condensed-v25-latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('/fonts/roboto_condensed/roboto-condensed-v25-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('/fonts/roboto_condensed/roboto-condensed-v25-latin-regular.svg') format('svg'); /* Legacy iOS */
   }
   /* roboto-condensed-italic - latin */
   @font-face {
@@ -41,10 +41,10 @@
     font-weight: 400;
     font-display: swap;
     src: local(''),
-         url('https://dlcdnimgs.asus.com/vendor/public/fonts/roboto_condensed/roboto-condensed-v25-latin-italic.woff2') format('woff2'), /* Super Modern Browsers */
-         url('https://dlcdnimgs.asus.com/vendor/public/fonts/roboto_condensed/roboto-condensed-v25-latin-italic.woff') format('woff'), /* Modern Browsers */
-         url('https://dlcdnimgs.asus.com/vendor/public/fonts/roboto_condensed/roboto-condensed-v25-latin-italic.ttf') format('truetype'), /* Safari, Android, iOS */
-         url('https://dlcdnimgs.asus.com/vendor/public/fonts/roboto_condensed/roboto-condensed-v25-latin-italic.svg#RobotoCondensed') format('svg'); /* Legacy iOS */
+         url('/fonts/roboto_condensed/roboto-condensed-v25-latin-italic.woff2') format('woff2'), /* Super Modern Browsers */
+         url('/fonts/roboto_condensed/roboto-condensed-v25-latin-italic.woff') format('woff'), /* Modern Browsers */
+         url('/fonts/roboto_condensed/roboto-condensed-v25-latin-italic.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('/fonts/roboto_condensed/roboto-condensed-v25-latin-italic.svg') format('svg'); /* Legacy iOS */
   }
   /* roboto-condensed-700 - latin */
   @font-face {
@@ -53,10 +53,10 @@
     font-weight: 700;
     font-display: swap;
     src: local(''),
-         url('https://dlcdnimgs.asus.com/vendor/public/fonts/roboto_condensed/roboto-condensed-v25-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-         url('https://dlcdnimgs.asus.com/vendor/public/fonts/roboto_condensed/roboto-condensed-v25-latin-700.woff') format('woff'), /* Modern Browsers */
-         url('https://dlcdnimgs.asus.com/vendor/public/fonts/roboto_condensed/roboto-condensed-v25-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
-         url('https://dlcdnimgs.asus.com/vendor/public/fonts/roboto_condensed/roboto-condensed-v25-latin-700.svg#RobotoCondensed') format('svg'); /* Legacy iOS */
+         url('/fonts/roboto_condensed/roboto-condensed-v25-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+         url('/fonts/roboto_condensed/roboto-condensed-v25-latin-700.woff') format('woff'), /* Modern Browsers */
+         url('/fonts/roboto_condensed/roboto-condensed-v25-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('/fonts/roboto_condensed/roboto-condensed-v25-latin-700.svg') format('svg'); /* Legacy iOS */
   }
   /* roboto-condensed-700italic - latin */
   @font-face {
@@ -65,8 +65,8 @@
     font-weight: 700;
     font-display: swap;
     src: local(''),
-         url('https://dlcdnimgs.asus.com/vendor/public/fonts/roboto_condensed/roboto-condensed-v25-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
-         url('https://dlcdnimgs.asus.com/vendor/public/fonts/roboto_condensed/roboto-condensed-v25-latin-700italic.woff') format('woff'), /* Modern Browsers */
-         url('https://dlcdnimgs.asus.com/vendor/public/fonts/roboto_condensed/roboto-condensed-v25-latin-700italic.ttf') format('truetype'), /* Safari, Android, iOS */
-         url('https://dlcdnimgs.asus.com/vendor/public/fonts/roboto_condensed/roboto-condensed-v25-latin-700italic.svg#RobotoCondensed') format('svg'); /* Legacy iOS */
+         url('/fonts/roboto_condensed/roboto-condensed-v25-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+         url('/fonts/roboto_condensed/roboto-condensed-v25-latin-700italic.woff') format('woff'), /* Modern Browsers */
+         url('/fonts/roboto_condensed/roboto-condensed-v25-latin-700italic.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('/fonts/roboto_condensed/roboto-condensed-v25-latin-700italic.svg') format('svg'); /* Legacy iOS */
   }
